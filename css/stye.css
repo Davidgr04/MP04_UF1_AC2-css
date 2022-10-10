@@ -9,11 +9,47 @@
     text-align: center;
 }
 
+.LM {
+    background-color: blue;
+}
+
+.BD {
+    background-color: rgb(46, 93, 46);
+}
+
+.BDt {
+    background-color: palevioletred;
+}
+
+.ED {
+    background-color: rgb(48, 153, 188);
+}
+
+.FOL {
+    background-color: rgb(98, 0, 255);
+}
+
+.IE {
+    background-color: rgb(157, 255, 0);
+}
+
+.P {
+    background-color: orange;
+}
+
+.SO {
+    background-color: rgb(255, 89, 0);
+}
+
+.black {
+    background-color: #000000;
+}
+
 #customers th {
     padding-top: 12px;
     padding-bottom: 12px;
-    background-color: #0c28ff;
-    color: rgb(0, 0, 0);
+    background-color: #000000;
+    color: rgb(255, 255, 255);
 }
 
 .flex {
